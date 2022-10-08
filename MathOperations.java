@@ -32,6 +32,10 @@ public class MathOperations {
         counter++;
         counter++;
         System.out.println("-I count: " + counter);
+        counter--;
+        counter--;
+        counter--;
+        System.out.println("-I count: " + counter);
 
     }
     
